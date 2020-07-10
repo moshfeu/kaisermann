@@ -1,6 +1,6 @@
 ### Hey 👋🥝
 
-I'm Christian Kaisermann, passionate about nature, cats, ducks and in creating some helpful code.
+I'm Christian Kaisermann, (officialy) a front-end developer since 2012, passionate about nature 🌳, cats 🐈, ducks 🦆 and writing code to help others 💻.
 
 Did you know duck armies were a thing?
 
@@ -9,3 +9,6 @@ Did you know duck armies were a thing?
 look at them go 🥺
 
 ![duck army 2](https://media1.tenor.com/images/577e50853b35785827c23949e4e32e58/tenor.gif?itemid=4522391)
+
+
+
