@@ -1,5 +1,7 @@
 ### Hey 👋🥝
 
+I'm Christian Kaisermann, passionate about nature, cats, ducks and in creating some helpful code.
+
 Did you know duck armies were a thing?
 
 ![duck army 1](https://thumbs.gfycat.com/AbsoluteSociableFalcon-size_restricted.gif)
