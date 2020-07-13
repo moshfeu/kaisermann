@@ -6,6 +6,4 @@ My name is Christian (Kaisermann), a web engineer with almost a decade of indust
 
 Front-end infrastructure (tooling, libraries) and CSS are my jams 🌊.
 
-[Twitter](https://twitter.com/kiwistian) | [Instagram](https://instagram.com/kiwistian)
-
 </samp>
