@@ -6,13 +6,4 @@ My name is Christian (Kaisermann), a web engineer with almost a decade of indust
 
 [Twitter](https://twitter.com/kiwistian) | [Instagram](https://instagram.com/kiwistian)
 
----
-
-Oh, did you know duck armies were a thing?
-
-![duck army 2](https://media1.tenor.com/images/577e50853b35785827c23949e4e32e58/tenor.gif?itemid=4522391)
-
-
-look at them go 🥺
-
 </samp>
