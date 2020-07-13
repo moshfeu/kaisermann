@@ -8,7 +8,7 @@ My name is Christian (Kaisermann), a web engineer with almost a decade of indust
 
 Oh, did you know duck armies were a thing?
 
-![duck army 1](https://thumbs.gfycat.com/AbsoluteSociableFalcon-size_restricted.gif) ![duck army 2](https://media1.tenor.com/images/577e50853b35785827c23949e4e32e58/tenor.gif?itemid=4522391)
+![duck army 2](https://media1.tenor.com/images/577e50853b35785827c23949e4e32e58/tenor.gif?itemid=4522391)
 
 
 look at them go 🥺
